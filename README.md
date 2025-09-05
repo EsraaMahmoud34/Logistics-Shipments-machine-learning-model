@@ -71,7 +71,7 @@ The project covers the **end-to-end ML pipeline** from data exploration to deplo
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/shipment-status-prediction.git
+   git clone https://github.com/EsraaMahmoud34/Logistics-Shipments-machine-learning-model.git
    cd shipment-status-prediction
 2. Install dependencies:  pip install -r requirements.txt
 3. Run the Streamlit app:   streamlit run app.py
